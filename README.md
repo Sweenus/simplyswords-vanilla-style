@@ -13,7 +13,7 @@ So i create my own textures and models.
 
 ### Items:
 
-- [ ] Runic Tablet
+- [x] Runic Tablet
 
 ### Weapons:
 
@@ -76,16 +76,16 @@ So i create my own textures and models.
 
 |               | Gobber    | Nether    | End Gobber    |
 | ------------- | --------- | --------- | ------------- |
-| Chakram       |           |           |               |
-| Claymore      |           |           |               |
-| Cutlass       |           |           |               |
-| Greataxe      |           |           |               |
-| Greathammer   |           |           |               |
-| Katana        |           |           |               |
-| Longsword     |           |           |               |
-| Rapier        |           |           |               |
-| Scythe        |           |           |               |
-| Spear         |           |           |               |
-| Sai           |           |           |               |
-| Twinblade     |           |           |               |
-| Warglaive     |           |           |               |
+| Chakram       | &check;   |           |               |
+| Claymore      | &check;   |           |               |
+| Cutlass       | &check;   |           |               |
+| Greataxe      | &check;   |           |               |
+| Greathammer   | &check;   |           |               |
+| Katana        | &check;   |           |               |
+| Longsword     | &check;   |           |               |
+| Rapier        | &check;   |           |               |
+| Scythe        | &check;   |           |               |
+| Spear         | &check;   |           |               |
+| Sai           | &check;   |           |               |
+| Twinblade     | &check;   |           |               |
+| Warglaive     | &check;   |           |               |
